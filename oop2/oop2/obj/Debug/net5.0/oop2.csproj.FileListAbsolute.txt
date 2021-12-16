@@ -1,0 +1,16 @@
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.exe
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.deps.json
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.runtimeconfig.json
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.runtimeconfig.dev.json
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.dll
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\ref\oop2.dll
+C:\Users\David Afloarei\Desktop\oop2\oop2\bin\Debug\net5.0\oop2.pdb
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.csproj.AssemblyReference.cache
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.AssemblyInfoInputs.cache
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.AssemblyInfo.cs
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.csproj.CoreCompileInputs.cache
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.dll
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\ref\oop2.dll
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.pdb
+C:\Users\David Afloarei\Desktop\oop2\oop2\obj\Debug\net5.0\oop2.genruntimeconfig.cache
